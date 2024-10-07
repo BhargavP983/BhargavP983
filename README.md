@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @BhargavP983
-- 👀 I’m interested in Coding,Ethical Hacking
-- 🌱 I’m currently learning B.Tech(Undergraduation)
+- 👋 Hi, I’m @BhargavP983.
+- 👀 I’m interested in Coding, Ethical Hacking.
+- 🌱 I'm B.Tech(CSE) graduate.
+- 🏢 I'm Working as Cybersecurity Analyst.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me bhargav09p03@gmail.com
 
